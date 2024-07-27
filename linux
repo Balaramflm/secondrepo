@@ -1,0 +1,10 @@
+origin  https://github.com/Balaramflm/secondrepo.git (push)
+[root@ip-172-31-86-117 flm]# ggit log
+-bash: ggit: command not found
+[root@ip-172-31-86-117 flm]# git log
+commit f5d8081748cbfbdc478c94dca3228893debc5f4e (HEAD -> master)
+Author: root <root@ip-172-31-86-117.ec2.internal>
+Date:   Sat Jul 27 10:53:05 2024 +0000
+
+    all files.
+[root@ip-172-31-86-117 flm]# https://github.com/Balaramflm/secondrepo.git
